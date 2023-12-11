@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi! I'm a PhD candidate in environmental economics at CIRED and PSAE research labs (Paris-Saclay University, AgroParisTech). I mostly work on hedgerow networks in farmlands, exploring the economic and political drivers behind their dynamics. Right now, I'm working on the impact of the French land consolidation programme on these woody linear elements during the second half of the 20th century, using staggered difference-in-difference.
 
 <!--
 **v-cocco/v-cocco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
